@@ -1,3 +1,8 @@
-**This is a simple backup I made of my iPhone that has all of the iOS wallpapers from iOS 14 - iOS 26 :)**
+## A simple backup with every iOS Wallpaper
+*This backup has not been fully tested yet, use with caution.*
 
-This should work with iOS 26.6.2 and newer
+**Usage:**
+- Download and extract the zip file
+- Navigate to Users/*Your User*/Library/Applications Support/MobileSync/Backup
+- Paste the extracted folder there
+- Restore your iPhone with the Finder
