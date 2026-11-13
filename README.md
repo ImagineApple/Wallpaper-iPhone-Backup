@@ -8,4 +8,4 @@
 - Restore your iPhone with the Finder
 
 ### Please note
-*This will erase all content on your iPhone*
+*This will erase all content on your iPhone.*
